@@ -1,7 +1,7 @@
 # Japanese Localization for Project MMO v 1.20.1-1.7.40
 
 ## 概要
-MinecraftのMOD「[Project MMO]([ここにCurseForgeやModrinthのリンクを貼る](https://www.curseforge.com/minecraft/mc-mods/project-mmo))」のMinecraft 1.20.1 Forge向けのバージョン1.7.40を日本語でプレイできるようにするための翻訳用リソースパックです。  
+MinecraftのMOD「[Project MMO](https://www.curseforge.com/minecraft/mc-mods/project-mmo)」のMinecraft 1.20.1 Forge向けのバージョン1.7.40を日本語でプレイできるようにするための翻訳用リソースパックです。  
 これは非公式的なもので、また、翻訳の一部にAIを使用しています。内部的にはファイル自体は存在しますが、翻訳がされていないため、その翻訳がされてない単語や文章などを日本語化します。
 
 ## 動作確認環境
