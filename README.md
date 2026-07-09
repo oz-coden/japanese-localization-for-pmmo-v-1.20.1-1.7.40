@@ -25,7 +25,7 @@ This is an unofficial resource pack, and some parts of the translation were gene
 ## Installation
 
 1. Download the latest `.zip` file from **Releases**.
-2. Without extracting (unzipping) the downloaded ZIP file, place it in the `resourcepacks` folder where Minecraft is installed.
+2. Without extracting the downloaded ZIP file, place it in the `resourcepacks` folder where Minecraft Mod is installed.
 3. Launch Minecraft, then open "Options" > "Resource Packs."
 4. Select this pack from the list on the left, drag it to the right, and click "Done".
 
@@ -70,13 +70,13 @@ MinecraftのMOD「[Project MMO](https://www.curseforge.com/minecraft/mc-mods/pro
 ## 導入方法
 
 1. **Releases** から、最新の `.zip` ファイルをダウンロードします。
-2. ダウンロードしたZIPファイルを展開（解凍）せずに、Minecraftのインストール先にある `resourcepacks` フォルダに入れます。
-3. Minecraftを起動し、「設定 (Options)」 > 「リソースパック」を開きます。
-4. 左側のリストから本パックを選んで右側へ移動させ、「完了」を押します。
+2. ダウンロードしたZIPファイルは解凍せずに、Minecraft Modがインストールされている`resourcepacks`フォルダに配置してください。
+3. Minecraftを起動し、「設定」 > 「リソースパック」を開きます。
+4. 左側のリストからこのパックを選んで右側へ移動させ、「完了」を押します。
 
 ## 注意事項
 
-* 本リソースパックは個人による非公式の翻訳であり、Project MMOの公式開発者様とは一切関係ありません。
+* このリソースパックは個人による非公式の翻訳であり、Project MMOの公式開発者様とは一切関係ありません。
 * このリソースパックを使用したことによるいかなる損害やトラブルについても、当方は責任を負いかねます。
 * 翻訳の誤り、不自然な表現等を見つけた場合は、連絡いただけると助かります。
 
