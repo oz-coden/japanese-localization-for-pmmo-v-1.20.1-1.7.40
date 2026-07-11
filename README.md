@@ -1,4 +1,4 @@
-# Japanese Localization for Project MMO v 1.20.1-1.7.40
+# Japanese Localization for Project MMO v1.20.1
 
 Japanese section is [available](#目次) in below this section.
 
@@ -45,7 +45,7 @@ This project is released under the MIT License.
 
 ---
 
-# Japanese Localization for Project MMO v 1.20.1-1.7.40
+# Japanese Localization for Project MMO v1.20.1
 
 ## 目次
 
